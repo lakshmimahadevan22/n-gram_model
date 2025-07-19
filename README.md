@@ -35,4 +35,4 @@ streamlit run app.py
 
 ## User Interface
 
-![alt text](<Screenshot 2025-07-19 at 5.48.27 PM.png>)
+![Alt text](img/img1.png)
